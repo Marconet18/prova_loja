@@ -1,0 +1,40 @@
+body {
+    background-color: #c7cacac9;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 20px;
+}
+button {
+    width: 10%;
+    height: 30px;
+    font-size: 17px;
+    background-color: rgba(16, 204, 204, 0.473);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.caixa_fild{
+    padding: 20px 20px;
+    margin: 10px;
+    text-align: center;
+    background-color: blanchedalmond;
+
+}
+.caixa_loja {
+    margin:200 300px;
+    flex-direction: column-reverse;
+    text-align: center;
+}
+footer{
+    background-color: blanchedalmond;
+    padding:1%;
+    text-align: center;
+}
+
+full-screen-image {
+    width: 100%;  
+    height: 100px; 
+    object-fit: cover; 
+    display: block;
+}
+img {
+border: 2px solid black; 
+}
